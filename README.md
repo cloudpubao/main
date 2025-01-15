@@ -1,4 +1,4 @@
-<h1 align="center"> JiSeonNam</h1>
+<h1 align="center"> Hyejin</h1>
 
 <h3>read me</h3>
 developer engineer
