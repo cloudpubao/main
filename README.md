@@ -1,8 +1,7 @@
-<h1 align="center"> Hyejin</h1>
-
 <h3>read me</h3>
 developer engineer
-
+<!--
+<h1 align="center"> Hyejin</h1>
 <h3>프로젝트</h3>
 총 3개의 프로젝트
 
@@ -28,3 +27,4 @@ developer engineer
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://test@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+-->
